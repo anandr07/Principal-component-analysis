@@ -1,2 +1,2 @@
-# Principal-component-analysisi
+# Principal-component-analysis
 (Using R)
